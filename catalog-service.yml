@@ -1,0 +1,3 @@
+book:
+  greeting: "Welcome to the catalog from the config Server"
+  envtest: "Welcome to the catalog env test from config Server"
